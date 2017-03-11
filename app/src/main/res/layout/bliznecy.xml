@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kg.app.kuba.ifelseifelse.Bliznecy">
+
+    <TextView
+        android:id="@+id/bliznecy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Сегодня венцом творения вам будет казаться удобное кресло. Никогда еще вы не ценили комфорт так как нынче. Не ходите в мебельный магазин - разоритесь."
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+</RelativeLayout>

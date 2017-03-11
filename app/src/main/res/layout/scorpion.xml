@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kg.app.kuba.ifelseifelse.Scorpion">
+
+    <TextView
+        android:id="@+id/scorpion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Будьте готовы провести этот день в нескончаемых разговорах. Некоторые будут бессмысленны, некоторые - важны, но все без исключения потребуют от вас выражения заинтересованности на лице."
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+</RelativeLayout>

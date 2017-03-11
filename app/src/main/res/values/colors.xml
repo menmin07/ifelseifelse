@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorZima">#0053fa</color>
+    <color name="colorVesna">#03ea12</color>
+    <color name="colorLeto">#fbff02</color>
+    <color name="colorOsen">#ff8903</color>
+    <color name="zodiac1">#ff0900</color>
+    <color name="zodiac2">#fd03cb</color>
+    <color name="zodiac3">#ff8800</color>
+    <color name="zodiac4">#0307ff</color>
+    <color name="zodiac5">#03ffe2</color>
+    <color name="zodiac6">#038f36</color>
+    <color name="zodiac7">#ffe203</color>
+    <color name="zodiac8">#ff0389</color>
+    <color name="zodiac9">#03ff42</color>
+    <color name="zodiac10">#ffbc03</color>
+    <color name="zodiac11">#8f60ff</color>
+    <color name="zodiac12">#e6ff03</color>
+    <color name="red">#fc000d</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#003cff</color>
+</resources>

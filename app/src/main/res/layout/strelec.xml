@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kg.app.kuba.ifelseifelse.Strelec">
+
+    <TextView
+        android:id="@+id/strelec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Любое неверное ваше движение немедленно будет замечено. Ваше окружение сегодня будет настроено весьма агрессивно. Постарайтесь быть тише воды, ниже травы."
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+</RelativeLayout>

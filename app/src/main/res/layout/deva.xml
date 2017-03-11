@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kg.app.kuba.ifelseifelse.Deva">
+
+    <TextView
+        android:id="@+id/deva"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Вы, возможно, нашли не лучший способ проявлять интерес к кому-то, и этот кто-то находится в состоянии легкого изумления и совершенно не понимает, что от него хотят. Будьте проще."
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+</RelativeLayout>

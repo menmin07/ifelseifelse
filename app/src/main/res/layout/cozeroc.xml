@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kg.app.kuba.ifelseifelse.Cozeroc">
+
+    <TextView
+        android:id="@+id/cozeroc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Блеск вашего ума сегодня может остаться незамеченным. Чем больше сил вы будете тратить на то, чтобы привлечь к себе внимание, тем меньший эффект за сим воспоследует. Стоит ли мучаться?"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="16dp" />
+</RelativeLayout>
